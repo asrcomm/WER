@@ -1,0 +1,1 @@
+created a WER script using python
